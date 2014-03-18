@@ -5,7 +5,7 @@
   "name": "XML (Droiuby)",
   "patterns" : [
     {
-      "include": "text.html.basic"
+      "include": "text.xml"
     }
   ],
   "scopeName": "text.xml.droiuby"
