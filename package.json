@@ -1,10 +1,10 @@
 {
   "name": "droiuby",
   "main": "./lib/droiuby",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "An atom package for the Droiuby framework",
   "activationEvents": ["droiuby:toggle"],
-  "repository": "https://github.com/atom/droiuby",
+  "repository": "https://github.com/jedld/atom-droiuby",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
