@@ -1,0 +1,12 @@
+{
+  "fileTypes": [
+    "droiuby"
+  ],
+  "name": "XML (Droiuby)",
+  "patterns" : [
+    {
+      "include": "text.html.basic"
+    }
+  ],
+  "scopeName": "text.xml.droiuby"
+}
